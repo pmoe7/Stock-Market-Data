@@ -1,2 +1,12 @@
 # Stock-Market-Data
-Contains various data for the stock market and stocks including news, price and fundamentals (ratios)
+Hi folks,
+
+Here is a collection of data I have scraped or aggregated for most of the stocks in the S&P 500, including popular ones like Apple (AAPL).
+
+It has the following data:
+- Daily news articles and sentiments on those articles collected over the last few years.
+- All quarterly stock fundamentals (ratios) for 10-20 years.
+- Stock price data (daily close) over the last 10-20 years.
+
+Use it however you please, but if you do leverage it to make some money; just remember me and thank me in your head :)
+
