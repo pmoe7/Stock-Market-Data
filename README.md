@@ -8,5 +8,5 @@ It has the following data:
 - All quarterly stock fundamentals (ratios) for 10-20 years.
 - Stock price data (daily close) over the last 10-20 years.
 
-Use it however you please for PERSONAL USAGE, but if you do leverage it to make some money; just remember me and thank me in your head :)
+Use it however you please for PERSONAL use. If you do leverage it to make some money, just remember me and thank me in your head :)
 
